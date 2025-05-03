@@ -8,10 +8,7 @@
 ### ❤ Favorite technos
 
 <div>
-    <code><img src="https://maxence-giron.github.io/public/img/vue.webp" width="35px" title="Vue" alt="Vue"/></code>
-    <code><img src="https://maxence-giron.github.io/public/img/laravel.webp" width="35px" title="Laravel" alt="Laravel"/></code>
-    <code><img src="https://maxence-giron.github.io/public/img/dotnet.webp" width="35px" title=".NET" alt=".NET"/></code>
-    <code><img src="https://maxence-giron.github.io/public/img/blazor.webp" width="35px" title="Blazor" alt="Blazor"/></code>
+    <img src="https://skillicons.dev/icons?i=react,vue,laravel,dotnet&perline=4"/>
 </div> <br>
 
 ### 👀 Visitor counter
