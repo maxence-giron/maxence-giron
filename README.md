@@ -8,7 +8,7 @@
 ### ❤ Favorite technos
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,vue,laravel,dotnet&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=react,vue,laravel,dotnet&perline=4" alt="Favorite technos"/>
 </div> <br>
 
 ### 👀 Visitor counter
@@ -20,5 +20,5 @@
 ### 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=maxence-giron&theme=github_dark&show_icons=true" alt="Max GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=maxence-giron&theme=github_dark&show_icons=true" alt="Stats"/>
 </div>
