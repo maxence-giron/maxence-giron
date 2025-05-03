@@ -2,10 +2,10 @@
 
 <div align="justify"> 
     Passionate <strong>web developer</strong>, I enjoy designing real-world projects and tackling technical challenges. Curious and versatile, I'm interested in both <strong>front-end</strong> and <strong>back-end</strong> development, with a focus on writing 
-    maintainable, scalable code and crafting polished interfaces. My goal : to build thoughtful, useful applications and keep learning every day.
+    maintainable, scalable code and crafting polished interfaces. My goal&nbsp;: to build thoughtful, useful applications and keep learning every day.
 </div> <br>
 
-### ❤ Favorite technologies
+### ❤ Favorite technos
 
 <div>
     <code><img title="Vue" alt="Vue" width="35px" src="https://maxence-giron.github.io/public/img/vue.webp"/></code>
