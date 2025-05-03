@@ -8,22 +8,20 @@
 ### ❤ Favorite technos
 
 <div>
-    <code><img title="Vue" alt="Vue" width="35px" src="https://maxence-giron.github.io/public/img/vue.webp"/></code>
-    <code><img title="Laravel" alt="Laravel" width="35px" src="https://maxence-giron.github.io/public/img/laravel.webp"/></code>
-    <code><img title=".NET" alt=".NET" width="35px" src="https://maxence-giron.github.io/public/img/dotnet.webp"/></code>
-    <code><img title="Blazor" alt="Blazor" width="35px" src="https://maxence-giron.github.io/public/img/blazor.webp"/></code>
+    <code><img src="https://maxence-giron.github.io/public/img/vue.webp" width="35px" title="Vue" alt="Vue"/></code>
+    <code><img src="https://maxence-giron.github.io/public/img/laravel.webp" width="35px" title="Laravel" alt="Laravel"/></code>
+    <code><img src="https://maxence-giron.github.io/public/img/dotnet.webp" width="35px" title=".NET" alt=".NET"/></code>
+    <code><img src="https://maxence-giron.github.io/public/img/blazor.webp" width="35px" title="Blazor" alt="Blazor"/></code>
 </div> <br>
 
 ### 👀 Visitor counter
 
-<div align="center">
-    <img alt="Visior counter" src="https://profile-counter.glitch.me/maxence-giron/count.svg">
+<div>
+   <img src="https://profile-counter.glitch.me/maxence-giron/count.svg" alt="Visior counter"/>  
 </div> <br>
 
 ### 📈 Stats
 
 <div align="center">
-    
-![Maxence GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxence-giron&show_icons=true&bg_color=00000000)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=maxence-giron&theme=github_dark&show_icons=true" alt="Max GitHub Stats"/>
 </div>
