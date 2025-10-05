@@ -11,12 +11,6 @@
     <img src="https://skillicons.dev/icons?i=react,vue,laravel,dotnet&perline=4" alt="Favorite technos"/>
 </div> <br>
 
-### 👀 Visitor counter
-
-<div>
-   <img src="https://profile-counter.glitch.me/maxence-giron/count.svg" alt="Visior counter"/>  
-</div> <br>
-
 ### 📈 Stats
 
 <div align="center">
